@@ -1,0 +1,25 @@
+{
+  "name": "microholding",
+  "version": "0.0.1",
+  "description": "create and manage your one-person micro holding programatically",
+  "main": "SOURCE/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micro-Holding-Cooperativism/microholding.git"
+  },
+  "keywords": [
+    "micro",
+    "holding",
+    "company",
+    "cooperativism"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Micro-Holding-Cooperativism/microholding/issues"
+  },
+  "homepage": "https://github.com/Micro-Holding-Cooperativism/microholding#readme"
+}
